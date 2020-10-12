@@ -10,7 +10,7 @@ import { StatusBar } from '@ionic-native/status-bar/ngx';
   styleUrls: ['app.component.scss']
 })
 export class AppComponent implements OnInit {
-  usuario:string="well@senacev.com.br";
+  usuario:string="edson.lpsantos@gmail.com";
   public selectedIndex = 0;
   public appPages = [
     {
